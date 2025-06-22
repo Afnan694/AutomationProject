@@ -5,6 +5,8 @@
         <groups>
             <run>
                 <include name="badass" />
+                <include name="kickass" />
+
             </run>
         </groups>
         <classes>
